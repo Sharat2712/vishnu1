@@ -68,6 +68,7 @@
         <configuration>
           <server>tomcatserver</server>
         </configuration>
+</plugin>
       </plugins>
     </pluginManagement>
   </build>
